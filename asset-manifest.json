@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.32feb351.css",
-    "main.js": "/my-portfolio/static/js/main.046a04f6.js",
-    "static/js/787.526920f2.chunk.js": "/my-portfolio/static/js/787.526920f2.chunk.js",
-    "static/media/bg.jpg": "/my-portfolio/static/media/bg.a987ab44c86c8cd2d796.jpg",
-    "index.html": "/my-portfolio/index.html",
-    "main.32feb351.css.map": "/my-portfolio/static/css/main.32feb351.css.map",
-    "main.046a04f6.js.map": "/my-portfolio/static/js/main.046a04f6.js.map",
-    "787.526920f2.chunk.js.map": "/my-portfolio/static/js/787.526920f2.chunk.js.map"
+    "main.css": "/speed-calculator/static/css/main.7c08360f.css",
+    "main.js": "/speed-calculator/static/js/main.b2e5e540.js",
+    "static/js/787.526920f2.chunk.js": "/speed-calculator/static/js/787.526920f2.chunk.js",
+    "static/media/bg.jpg": "/speed-calculator/static/media/bg.a987ab44c86c8cd2d796.jpg",
+    "index.html": "/speed-calculator/index.html",
+    "main.7c08360f.css.map": "/speed-calculator/static/css/main.7c08360f.css.map",
+    "main.b2e5e540.js.map": "/speed-calculator/static/js/main.b2e5e540.js.map",
+    "787.526920f2.chunk.js.map": "/speed-calculator/static/js/787.526920f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32feb351.css",
-    "static/js/main.046a04f6.js"
+    "static/css/main.7c08360f.css",
+    "static/js/main.b2e5e540.js"
   ]
 }
